@@ -1,5 +1,5 @@
 # FODBMS
-End Term
+End Term Project
 
 *WIKIPEDIA ARTICLE NETWORKS*
 
